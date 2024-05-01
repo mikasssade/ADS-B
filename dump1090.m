@@ -1,4 +1,4 @@
-%% Main function for decoding ADSB, save decoded info in decodedDataCell
+% Main function for decoding ADSB, save decoded info in decodedDataCell
 
 function [decodedDataCell] = dump1090(seconds,dataPath,filename,sampRate)       
 
