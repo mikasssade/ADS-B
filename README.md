@@ -52,7 +52,6 @@ You will get output like this:
             velocity: [1x3 double]
                plane: '7502AD'
  
-You can find more powerful implementation at https://github.com/MalcolmRobb/dump1090
 
 ## License
 
