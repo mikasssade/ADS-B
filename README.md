@@ -52,11 +52,6 @@ You will get output like this:
             velocity: [1x3 double]
                plane: '7502AD'
  
-
-## Credits
-
-Most of the implementation comes from antirez's dump1090: https://github.com/antirez/dump1090/
-
 You can find more powerful implementation at https://github.com/MalcolmRobb/dump1090
 
 ## License
